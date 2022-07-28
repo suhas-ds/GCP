@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: loan-prediction
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: mlapp
+  template:
+    metadata:
+      labels:
+        app: mlapp
+    spec:
+      containers:
+      - name: loan-prediction-app
+        image: gcr.io/mlops-54321/mlapp:v1
+        ports:
+        - containerPort: 8000
