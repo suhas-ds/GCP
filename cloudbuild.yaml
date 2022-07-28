@@ -20,7 +20,7 @@ steps:
 - name: "gcr.io/cloud-builders/gke-deploy"
   args:
   - run
-  - --filename=K8s/
+  - --filename=k8s/
   - --image=gcr.io/$PROJECT_ID/mlapp:v1
   - --location=us-west1-b
   - --cluster=mlkube
