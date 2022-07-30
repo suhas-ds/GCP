@@ -6,8 +6,6 @@
 
 ![Python version](https://img.shields.io/badge/python-3.6+-blue)
 
-![Python version](https://img.shields.io/badge/python-3.7-blue)
-
 #### Problem
 Company wants to automate the loan eligibility process based on customer detail provided while filling online application form. 
 It is a classification problem where we have to predict whether a loan would be approved or not. 
