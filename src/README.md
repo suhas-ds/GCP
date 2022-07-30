@@ -4,7 +4,7 @@
 
 ![prediction__model](https://img.shields.io/badge/prediction__model-v0.1.0-blue)
 
-![Python version](https://img.shields.io/badge/python-3.6-blue)
+![Python version](https://img.shields.io/badge/python-3.6+-blue)
 
 ![Python version](https://img.shields.io/badge/python-3.7-blue)
 
