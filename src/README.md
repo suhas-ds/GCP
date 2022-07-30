@@ -4,8 +4,6 @@
 
 ![prediction__model](https://img.shields.io/badge/prediction__model-v0.1.0-blue)
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?) 
-
 ![Python version](https://img.shields.io/badge/python-3.6-blue)
 
 #### Problem
